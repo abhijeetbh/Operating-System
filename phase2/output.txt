@@ -1,0 +1,75 @@
+Hello World       
+Process exited with status 0
+SI : 3  PI : 0  TI : 2
+
+
+NOT SAME        
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+      *    
+    * * *    
+   * * * *    
+    * * *    
+      *    
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+An apple        
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+* * * *       
+*     *     
+*     *     
+* * * *       
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+1          
+2 4         
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+Semester        
+Semester        
+Process exited with status 0
+SI : 3  PI : 0  TI : 0
+
+
+Hello World       
+Time Limit Exceeded
+SI : 2  PI : 0  TI : 2
+
+
+Invalid Page Fault
+SI : 0  PI : 3  TI : 0
+
+
+Operand Error
+SI : 0  PI : 2  TI : 0
+
+
+Time Limit Exceeded
+SI : 1  PI : 0  TI : 2
+
+
+* * * *       
+*     *     
+Line Limit Exceeded
+SI : 0  PI : 0  TI : 0
+
+
+Opcode Error
+SI : 0  PI : 1  TI : 0
+
+
+Out of data
+SI : 0  PI : 0  TI : 0
+
+
